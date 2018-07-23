@@ -683,6 +683,7 @@ public:
 	void shutdown()
 	{
 		printf("shutdown2\n");
+		printf("shutdown1\n");
 		for( auto itDevice = m_mDevices.begin(); itDevice != m_mDevices.end(); ++ itDevice )
 		{
 			auto& rDeviceData = itDevice->second;
