@@ -11,10 +11,9 @@ Steps:
 	2. copy the libVirtualDevice to the OpenNI Driver Folder
 	3. make in the NiTESample Folder 
 	4. run the sample app 
-~~
-## Step by step make
+
+## ~~Step by step make~~
 -----------
-If you use One step make, please skip this chapter. 
-In this mode, 3 seperate libraries will be generated, including 2 third party libs and the platform lib.
-### Compile third party libs
-~~
+~~If you use One step make, please skip this chapter. 
+In this mode, 3 seperate libraries will be generated, including 2 third party libs and the platform lib.~~
+### ~~Compile third party libs~~
