@@ -16,5 +16,5 @@ Steps:
 -----------
 ~~If you use One step make, please skip this chapter. 
 In this mode, 3 seperate libraries will be generated, including 2 third party libs and the platform lib.~~
-~~./test ~~
+1. ~~run ./test ~~
 ### ~~Compile third party libs~~
